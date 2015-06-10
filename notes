@@ -1,0 +1,18 @@
+Send index file response.sendFile(__dirname
+
+Start a project, serve index.html file and 
+express.static('public')
+
+app.use(function(req, res, next){
+  next();
+})
+
+stream = process.stdout
+stream.write("Foo!")
+
+response.on('finish')
+
+create json responder for returning all the classes Flatiron teaches
+
+ruby, iOS, Javascript
+bodyParser.urlencoded({extended: false})
